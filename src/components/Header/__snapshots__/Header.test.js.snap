@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-hLseeU dMPsfm"
+  >
+    <span
+      class="mega-octicon octicon-mark-github"
+      data-testid="icon"
+    />
+    <div
+      class="sc-beqWaB ihoHfr"
+    >
+      <div
+        class="sc-gueYoa eOwMm"
+      >
+        <span
+          class="octicon octicon-search"
+        />
+        <input
+          class="sc-dmqHEX bqMem"
+          data-testid="input"
+          placeholder="Search Gists for the username"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

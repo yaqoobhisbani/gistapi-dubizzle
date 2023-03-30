@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconLink matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-beqWaB juKUET"
+  >
+    <span
+      class="octicon octicon-code"
+      data-testid="icon"
+      style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+    />
+    <a
+      class="sc-gueYoa fnOQUP"
+      href="http://localhost/"
+    >
+      Files
+    </a>
+  </div>
+</div>
+`;

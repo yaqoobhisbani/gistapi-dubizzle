@@ -11,6 +11,7 @@ const Search = ({ search, onChange }) => {
           placeholder="Search Gists for the username"
           value={search}
           onChange={onChange}
+          data-testid="input"
         />
       </InputBox>
     </Wrapper>

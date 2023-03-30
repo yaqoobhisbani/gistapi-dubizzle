@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import IconLink from "./IconLink";
+import IconLink from "../IconLink/IconLink";
 
 const getFilesLabel = (count) => {
   if (count == 0) return count + " " + "Files";

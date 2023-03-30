@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GistHeader matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-dmqHEX fEozdp"
+  >
+    <div
+      class="sc-hLseeU gVCbip"
+    >
+      <img
+        class="sc-eDDNvR dbSxja"
+        src="http://localhost:3000/avatar.png"
+      />
+      <a
+        class="sc-jTrPJq dNVFCQ"
+        href="https://github.com/yaqoobhisbani"
+      >
+        yaqoobhisbani
+      </a>
+    </div>
+    <div
+      class="sc-gLDzan cEgHXJ"
+    >
+      <div
+        class="sc-beqWaB juKUET"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-code"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-gueYoa fnOQUP"
+        >
+          3 Files
+        </a>
+      </div>
+      <div
+        class="sc-beqWaB juKUET"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-repo-forked"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-gueYoa fnOQUP"
+          href="http://localhost:3000/forks"
+        >
+          Forks
+        </a>
+      </div>
+      <div
+        class="sc-beqWaB juKUET"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-comment"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-gueYoa fnOQUP"
+          href="http://localhost:3000/comments"
+        >
+          Comments
+        </a>
+      </div>
+      <div
+        class="sc-beqWaB juKUET"
+      >
+        <span
+          class="octicon octicon-star"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-gueYoa fnOQUP"
+        >
+          Stars
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

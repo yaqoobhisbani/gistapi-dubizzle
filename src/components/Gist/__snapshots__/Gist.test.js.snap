@@ -1,0 +1,487 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gist matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-fsQiph hGyyWv"
+  >
+    <div
+      class="sc-hLseeU BbBzW"
+    >
+      <div
+        class="sc-eDDNvR idlsVM"
+      >
+        <img
+          class="sc-jTrPJq dYZuXy"
+        />
+        <a
+          class="sc-gLDzan dAgnKx"
+        />
+      </div>
+      <div
+        class="sc-iAEyYk fIvPjx"
+      >
+        <div
+          class="sc-gueYoa cHbybZ"
+          style="margin-right: 16px;"
+        >
+          <span
+            class="octicon octicon-code"
+            data-testid="icon"
+            style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+          />
+          <a
+            class="sc-dmqHEX lmtyIK"
+          >
+            28 Files
+          </a>
+        </div>
+        <div
+          class="sc-gueYoa cHbybZ"
+          style="margin-right: 16px;"
+        >
+          <span
+            class="octicon octicon-repo-forked"
+            data-testid="icon"
+            style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+          />
+          <a
+            class="sc-dmqHEX lmtyIK"
+            href="https://api.github.com/gists/840386720b6a72d9e60dff8922f9747a/forks"
+          >
+            Forks
+          </a>
+        </div>
+        <div
+          class="sc-gueYoa cHbybZ"
+          style="margin-right: 16px;"
+        >
+          <span
+            class="octicon octicon-comment"
+            data-testid="icon"
+            style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+          />
+          <a
+            class="sc-dmqHEX lmtyIK"
+            href="https://api.github.com/gists/840386720b6a72d9e60dff8922f9747a/comments"
+          >
+            Comments
+          </a>
+        </div>
+        <div
+          class="sc-gueYoa cHbybZ"
+        >
+          <span
+            class="octicon octicon-star"
+            data-testid="icon"
+            style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+          />
+          <a
+            class="sc-dmqHEX lmtyIK"
+          >
+            Stars
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-qRumB ftafra"
+    >
+      <p
+        class="sc-beqWaB yDHQF"
+      >
+        <span>
+          Created at: 
+        </span>
+        <span>
+          2/31/2023
+        </span>
+      </p>
+      <p
+        class="sc-beqWaB yDHQF"
+        style="margin-left: 16px;"
+      >
+        <span>
+          Last updated: 
+        </span>
+        <span>
+          2/31/2023
+        </span>
+      </p>
+    </div>
+    <p
+      class="sc-kFuwaP hgxAcK"
+    >
+      test
+    </p>
+    <div
+      class="sc-qRumB sc-jsMahE ftafra dTKjie"
+    >
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+      <div
+        class="sc-gueYoa cHbybZ"
+        style="margin-right: 16px;"
+      >
+        <span
+          class="octicon octicon-file-text"
+          data-testid="icon"
+          style="color: rgb(63, 132, 228); font-size: 16px; font-weight: 500;"
+        />
+        <a
+          class="sc-dmqHEX lmtyIK"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

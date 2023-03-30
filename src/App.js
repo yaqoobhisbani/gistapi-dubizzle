@@ -1,12 +1,12 @@
-import { useEffect, useState, useCallback, useRef } from "react";
+import { useEffect, useState, useCallback } from "react";
 import styled, { ThemeProvider } from "styled-components";
-import GistList from "./components/GistList";
-import Header from "./components/Header";
-import Loading from "./components/Loading";
+import GistList from "./components/GistList/GistList";
+import Header from "./components/Header/Header";
+import Loading from "./components/Loading/Loading";
 import GlobalStyles from "./GlobalStyle";
 import { getPublicGists, getGistForUser } from "./services/gistService";
 import { colors } from "./theme/colors";
-import Error from "./components/Error";
+import Error from "./components/Error/Error";
 
 const App = () => {
   const [loading, setLoading] = useState(true);

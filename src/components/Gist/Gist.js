@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import Date from "./Date";
-import GistHeader from "./GistHeader";
-import IconLink from "./IconLink";
+import Date from "./Date/Date";
+import GistHeader from "./GistHeader/GistHeader";
+import IconLink from "./IconLink/IconLink";
 
 const Gist = ({ gist }) => {
   return (

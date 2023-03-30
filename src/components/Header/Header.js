@@ -1,12 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 import Octicon from "react-octicon";
-import Search from "./Search";
+import Search from "../Search/Search";
 
 function Header({ search, onChange }) {
   return (
     <Wrapper>
-      <Octicon name="mark-github" mega />
+      <Octicon name="mark-github" mega data-testid="icon" />
       <Search search={search} onChange={onChange} />
     </Wrapper>
   );

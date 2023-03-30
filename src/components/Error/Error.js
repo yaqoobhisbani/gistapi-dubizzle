@@ -5,7 +5,7 @@ import Octicon from "react-octicon";
 const Error = ({ message }) => {
   return (
     <Wrapper>
-      <Octicon name="stop" style={icon} />
+      <Octicon name="stop" style={icon} data-testid="stop-icon" />
       <Message>
         {message ? message : "Something went wrong! Please try again later."}
       </Message>

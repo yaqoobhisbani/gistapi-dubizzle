@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search component matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-beqWaB ihoHfr"
+  >
+    <div
+      class="sc-gueYoa eOwMm"
+    >
+      <span
+        class="octicon octicon-search"
+      />
+      <input
+        class="sc-dmqHEX bqMem"
+        data-testid="input"
+        placeholder="Search Gists for the username"
+        value=""
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,12 +1,12 @@
 import React from "react";
 import styled from "styled-components";
 import Octicon from "react-octicon";
-import { colors } from "../../theme/colors";
+import { colors } from "../../../theme/colors";
 
 const IconLink = ({ icon, label, link, style }) => {
   return (
     <Wrapper style={style}>
-      <Octicon name={icon} style={iconStyle} />
+      <Octicon name={icon} style={iconStyle} data-testid="icon" />
       <Label href={link}>{label}</Label>
     </Wrapper>
   );

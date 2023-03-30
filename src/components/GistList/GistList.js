@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import React from "react";
-import Gist from "./Gist";
+import Gist from "../Gist/Gist";
 
 const GistList = ({ gists }) => {
   return (
