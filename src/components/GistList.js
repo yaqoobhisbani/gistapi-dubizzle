@@ -27,4 +27,4 @@ const Wrapper = styled.div`
   }
 `;
 
-export default GistList;
+export default React.memo(GistList);
