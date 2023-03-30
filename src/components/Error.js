@@ -2,11 +2,13 @@ import React from "react";
 import styled from "styled-components";
 import Octicon from "react-octicon";
 
-const Error = () => {
+const Error = ({ message }) => {
   return (
     <Wrapper>
       <Octicon name="stop" style={icon} />
-      <Message>Something went wrong! Please try again later.</Message>
+      <Message>
+        {message ? message : "Something went wrong! Please try again later."}
+      </Message>
     </Wrapper>
   );
 };

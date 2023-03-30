@@ -1,3 +1,4 @@
+import React from "react";
 import styled from "styled-components";
 import Date from "./Date";
 import GistHeader from "./GistHeader";
@@ -69,4 +70,4 @@ const styles = {
   date: { marginLeft: 16 },
 };
 
-export default Gist;
+export default React.memo(Gist);
